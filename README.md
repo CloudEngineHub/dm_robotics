@@ -1,5 +1,8 @@
 # `dm_robotics`: Libraries, tools, and tasks created and used for Robotics research at DeepMind.
 
+**IMPORTANT** This project is no longer maintained. The last available release
+is 0.10.0
+
 ## Package overview
 | Package | Summary |
 | ---- | ---- |
